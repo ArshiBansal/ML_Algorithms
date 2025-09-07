@@ -1,5 +1,3 @@
-# clustering_suite.py
-# Run: python clustering_suite.py
 import numpy as np
 import matplotlib.pyplot as plt
 
